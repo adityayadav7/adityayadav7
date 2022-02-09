@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityayadav7" alt="adityayadav7" /> </p>
 
-- 🔭 I am passionate and **Experienced Full Stack Web Developer with a demonstrated history of working in the computer software industry. Skilled in NodeJS, Firebase, ReactJS, VueJS,JavaScript, Data Structure, Java, and HTML, CSS. Strong engineering professional with a Bachelor of Technology - BTech focused in Computer Science from G L Bajaj Institute of Management & Research.**
+- 🔭 I am passionate and **Experienced Full Stack Web Developer with a demonstrated history of working in the computer software industry. Skilled in NodeJS, Postgres, Firebase, ReactJS, VueJS,JavaScript, Data Structure, Java, and HTML, CSS. Strong engineering professional with a Bachelor of Technology - BTech focused in Computer Science from G L Bajaj Institute of Management & Research.**
 
 - 🌱 I’m currently learning **NodeJS, ReactJS**
 
